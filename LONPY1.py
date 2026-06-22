@@ -191,7 +191,7 @@ def strategy_active():
 
 
 # ====================================
-# POSITION CHECK
+# POSITION CHECK ne file test ne 
 # ====================================
 
 def get_open_positions():
